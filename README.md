@@ -30,8 +30,6 @@ To improve waste management efficiency and hygiene using automation.
 2. Upload code using Arduino IDE
 3. Open Serial Monitor
 
-## 📸 Output
-(Add circuit diagram or images)
 
 ## 📚 Concepts Used
 - IoT Systems
