@@ -1,0 +1,4 @@
+Arduino IDE
+Servo Library
+Blynk (optional)
+ESP8266/ESP32 (optional)
